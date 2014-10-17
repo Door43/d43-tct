@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tct:home|Door43 (tct)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tct|d43-tct repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tct/archive/master.zip|d43-tct.zip]]
+
+**Recent Changes**
+{{changes>ns = tct}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tct|Ethnologue data]]
+
